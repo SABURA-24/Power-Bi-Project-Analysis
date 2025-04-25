@@ -12,7 +12,9 @@ The purpose of this project is to analyze and visualize **eCommerce sales perfor
 
 ## 🖼 Dashboard Preview
 
-![eCommerce Sales Dashboard](Screenshot%20(18).png)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/9524b806-a3ca-48c5-a80b-d3775b25b206)
+
 
 ---
 
